@@ -2,7 +2,7 @@
  
 ### A java program that checks if new grades are available for any courses you're taking. 
 
-`(Works for YorkU student)`
+`(Works for YorkU students only)`
 
 #### Motivation: 
 Instructors can take upto 1 month after final exams to post the grades for courses. After a course in over, I used to wait in anticipation and check regularly if any lingering grades had been posted (upto 5 times everyday!). 
