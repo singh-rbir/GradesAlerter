@@ -5,8 +5,9 @@
 `(Works for YorkU students only)`
 
 #### Motivation: 
-Instructors can take upto 1 month after final exams to post the grades for courses. After a course in over, I used to wait in anticipation and check regularly if any lingering grades had been posted (upto 5 times everyday!). 
+Instructors can take upto 1 month after final exams to post the grades for courses. After a course in over, I used to wait in anticipation and check regularly if any lingering grades had been posted (<i>upto 5 times everyday!</i>). 
 
+#### Objective
 1. This program automatically checks your behalf. 
 2. Alerts you when they're available. 
 3. Automates the manual process of going to the registrar's page and sign-in to Passport York acc, etc. 
